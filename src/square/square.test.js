@@ -1,4 +1,4 @@
-const square = require("./asyncSquare")
+const square = require("./square")
 
 describe("square", () => {
   let mockValue
